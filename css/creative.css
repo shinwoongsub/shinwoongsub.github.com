@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/handsome.jpg');
+  background-image: url('https://images7.alphacoders.com/474/474234.jpg');
   text-align: center;
   color: white;
 }
