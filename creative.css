@@ -43,7 +43,12 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hoag%27s_object.jpg/220px-Hoag%27s_object.jpg');
+  background-repeat: no-repeat;
+  position: relative;
+  text-align: center;
+  background-size: cover;
+ 
 }
 .bg-dark {
   background-color: #222222;
@@ -149,13 +154,13 @@ aside {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('https://images7.alphacoders.com/474/474234.jpg');
+  background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbYvnvdzPL0FXrZhLtbIEha0ceG-EfLdEd_J7K2tksbWsVhDUroQ');
   text-align: center;
   color: white;
 }
